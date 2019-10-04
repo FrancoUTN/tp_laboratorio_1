@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567642118 source:c:\users\superpower\documents\utn\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1567642339 source:c:\users\superpower\documents\utn\calculadora\catania.c
+	"Catania.h"
+
+1567642326 c:\users\superpower\documents\utn\calculadora\catania.h
+

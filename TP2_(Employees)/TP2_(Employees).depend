@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570161989 source:c:\users\superpower\documents\codeauxiliar\tp2_(employees)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570161624 c:\users\superpower\documents\codeauxiliar\tp2_(employees)\arrayemployees.h
+
+1570162048 source:c:\users\superpower\documents\codeauxiliar\tp2_(employees)\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
